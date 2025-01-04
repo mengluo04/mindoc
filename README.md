@@ -11,11 +11,6 @@ MinDoc 的前身是 [SmartWiki](https://github.com/lifei6671/SmartWiki) 文档�
 
 可以用来储存日常接口文档，数据库字典，手册说明等文档。内置项目管理，用户管理，权限管理等功能，能够满足大部分中小团队的文档管理需求。
 
-##### 演示站点&文档:
-- https://www.iminho.me/wiki/docs/mindoc/
-- https://doc.gsw945.com/docs/mindoc-docs/
-
----
 
 ### 开发&维护&使用 悉知
 
